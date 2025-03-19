@@ -1,8 +1,7 @@
 <h1>Hello World !👋, I'm Paul-Erwin Koffi </h1>
 <p>💻 Co-founder of Kantic Group </p>
-<p>🤫 Currently work on my new secrect projet </p>
+<p>🤫 Currently work on my new secret projet </p>
 <p>👨🏾‍🎓 Studying software engineering at Polytechnique Montréal </p>
-<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
