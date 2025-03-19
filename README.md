@@ -1,5 +1,5 @@
 <h1>Hello World !👋, I'm Paul-Erwin Koffi </h1>
-<p>💻 Co-founder of KanticGroup</p>
+<p>💻 Co-founder of Kantic Group !</p>
 <p>🤫 Currently work on my new secrect projet </p>
 <p>👨🏾‍🎓 Studying software engineering at Polytechnique Montréal </p>
 <img src="banner.jpg" alt="GitHub Banner" width="100%" />
